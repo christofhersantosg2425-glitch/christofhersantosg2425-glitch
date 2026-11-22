@@ -11,11 +11,13 @@ Desarrollador de software y bases de datos en **Santo Domingo, República Domini
 
 | Área | Tecnologías |
 |---|---|
-| Lenguajes | Java, C#, VB.NET, SQL, JavaScript |
-| Backend | Spring Boot, ASP.NET, ASP.NET Core |
-| Frontend | Blazor, HTML, CSS |
-| Bases de datos | SQL Server (T-SQL), Oracle (PL/SQL) |
-| Herramientas | Git, GitHub, Visual Studio |
+| Lenguajes | C#, VB.NET, SQL, JavaScript |
+| Backend | ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, APIs REST, arquitectura multicapa |
+| Frontend | Blazor, Blazorise, React, JavaScript, jQuery, HTML5, CSS3, Bootstrap |
+| Bases de datos | SQL Server (T-SQL), Oracle Database (PL/SQL), procedimientos almacenados, funciones, triggers, índices, optimización de consultas |
+| Reportes | SQL Server Reporting Services (SSRS), Crystal Reports |
+| Herramientas | Git, GitHub, GitLab, Bitbucket, Docker |
+| Aprendiendo | Java, Spring Boot |
 
 ## 🚀 Próximamente
 
