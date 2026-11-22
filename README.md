@@ -21,7 +21,7 @@ Desarrollador de software y bases de datos en **Santo Domingo, República Domini
 
 ## 🚀 Próximamente
 
-- **NóminaRD**: sistema de nómina full stack con Java, Spring Boot, Thymeleaf y Oracle PL/SQL (cálculo de TSS, ISR y regalía pascual).
+- **Solva**: aplicación web de finanzas personales para controlar ingresos, gastos y presupuestos, con cuentas por cobrar y por pagar.
 
 ## 📫 Contacto
 
