@@ -21,7 +21,7 @@ Desarrollador de software y bases de datos en **Santo Domingo, República Domini
 
 ## 🚀 Próximamente
 
-- **Solva**: aplicación web de finanzas personales para controlar ingresos, gastos y presupuestos, con cuentas por cobrar y por pagar.
+- **Solva** · *Oracle PL/SQL · Java · Spring Boot · React · Bootstrap · Docker · Git*: aplicación web de finanzas personales para controlar ingresos, gastos y presupuestos, con cuentas por cobrar y por pagar. API REST en Spring Boot con arquitectura multicapa, lógica financiera en Oracle con procedimientos almacenados, funciones, triggers e índices optimizados, interfaz en React con Bootstrap y despliegue con Docker.
 
 ## 📫 Contacto
 
